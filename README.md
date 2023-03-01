@@ -1,3 +1,6 @@
+![Screen Shot 2023-02-28 at 4 40 37 PM (2)](https://user-images.githubusercontent.com/115059674/222274790-10abba5f-e1c6-4933-bdb1-50ff6b52c8da.png)
+
+
 # Frontend Mentor - Profile card component
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
