@@ -1,3 +1,6 @@
+![Screen Shot 2023-02-28 at 4 37 54 PM](https://user-images.githubusercontent.com/115059674/222015543-55da3144-1f83-43e1-8070-b9351f26f176.png)
+
+
 # Frontend Mentor - Profile card component
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
@@ -25,8 +28,7 @@ Your task is to build out the project to the designs inside the `/design` folder
 The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
 If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
-
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+l the required assets in the `/images` folder. The assets are already optimized.
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
